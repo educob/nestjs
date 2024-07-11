@@ -57,7 +57,7 @@ Browser url: http://localhost:3000/graphql
 }
 ```
 
-### getEdge¡
+### getEdge
 
 ```query {
   getEdge(id: "your-id-here") {
